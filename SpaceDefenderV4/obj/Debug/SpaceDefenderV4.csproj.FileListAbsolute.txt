@@ -1,0 +1,11 @@
+C:\Users\apokrifka\Desktop\C#\SpaceDefenderV4\bin\Debug\SpaceDefenderV4.exe.config
+C:\Users\apokrifka\Desktop\C#\SpaceDefenderV4\bin\Debug\SpaceDefenderV4.exe
+C:\Users\apokrifka\Desktop\C#\SpaceDefenderV4\bin\Debug\SpaceDefenderV4.pdb
+C:\Users\apokrifka\Desktop\C#\SpaceDefenderV4\obj\Debug\SpaceDefenderV4.csproj.AssemblyReference.cache
+C:\Users\apokrifka\Desktop\C#\SpaceDefenderV4\obj\Debug\SpaceDefenderV4.Form1.resources
+C:\Users\apokrifka\Desktop\C#\SpaceDefenderV4\obj\Debug\SpaceDefenderV4.Properties.Resources.resources
+C:\Users\apokrifka\Desktop\C#\SpaceDefenderV4\obj\Debug\SpaceDefenderV4.csproj.GenerateResource.cache
+C:\Users\apokrifka\Desktop\C#\SpaceDefenderV4\obj\Debug\SpaceDefenderV4.csproj.CoreCompileInputs.cache
+C:\Users\apokrifka\Desktop\C#\SpaceDefenderV4\obj\Debug\SpaceDefenderV4.exe
+C:\Users\apokrifka\Desktop\C#\SpaceDefenderV4\obj\Debug\SpaceDefenderV4.pdb
+C:\Users\apokrifka\Desktop\C#\SpaceDefenderV4\obj\Debug\SpaceDefenderV4.exe.config
